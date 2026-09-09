@@ -134,4 +134,8 @@ footer {
         flex-direction: column;
         text-align: center;
     }
+    #imgBanner{
+        width: 80%;
+        height: 60%;
+    }
 }
