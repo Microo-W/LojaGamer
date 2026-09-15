@@ -1,8 +1,8 @@
 :root{
     --color-primary:purple;
     --bg-dark:#141414;
-    --text-color:#fff;
-    --btn-color:#00ff88;
+    --text-color:#ffffff;
+    --btn-color:#ff0000;
     --header-bg: rgba(0,0,0,0.8);
     --linear-bg: linear-gradient(to right,aqua,purple);
 }
